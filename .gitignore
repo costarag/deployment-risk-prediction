@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+.env
+
+.ipynb_checkpoints/
+
+.DS_Store
+
+.claude/
+
+# Generated local datasets
+data/*.csv
+
+# Generated notebook outputs
+output/*
+!output/.gitkeep
+
+# Local planning notes
+plan.md

@@ -15,7 +15,7 @@ data/*.csv
 
 # Generated notebook outputs
 output/*
-!output/.gitkeep
+!output/*.png
 
 # Local planning notes
 plan.md
